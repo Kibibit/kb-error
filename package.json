@@ -1,0 +1,21 @@
+{
+  "name": "kb-error",
+  "version": "0.0.0",
+  "description": "Basic erorr class for kibibit projects",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kibibit/kb-error.git"
+  },
+  "author": "ZimGil (gil.tichon@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kibibit/kb-error/issues"
+  },
+  "homepage": "https://github.com/Kibibit/kb-error#readme"
+}
