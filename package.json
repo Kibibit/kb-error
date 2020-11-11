@@ -4,6 +4,7 @@
   "description": "Basic erorr class for kibibit projects",
   "main": "kb-error.js",
   "types": "kb-error.d.ts",
+  "private": false,
   "scripts": {
     "commit": "cz",
     "contributors:add": "all-contributors add",
