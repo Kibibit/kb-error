@@ -5,6 +5,9 @@
   </h2>
 </p>
 <p align="center">
+  <a href='https://coveralls.io/github/Kibibit/kb-error'><img src='https://coveralls.io/repos/github/Kibibit/kb-error/badge.svg' alt='Coverage Status' /></a>
+</p>
+<p align="center">
   Basic erorr class for kibibit projects
 </p>
 <hr>
