@@ -6,17 +6,21 @@
   "types": "kb-error.d.ts",
   "dependencies": {},
   "devDependencies": {
+    "@babel/preset-env": "^7.12.1",
     "all-contributors-cli": "^6.19.0",
-    "chai": "^4.2.0",
+    "babel-jest": "^26.6.3",
+    "eslint": "^7.13.0",
+    "eslint-plugin-jest": "^24.1.0",
     "jest": "^26.6.3",
     "jest-stare": "^2.2.0",
-    "mocha": "^8.2.0",
-    "semantic-release-cli": "^5.4.0",
-    "semantic-release": "^17.2.2"
+    "semantic-release": "^17.2.2",
+    "semantic-release-cli": "^5.4.0"
   },
   "scripts": {
     "contributors:add": "all-contributors add",
     "contributors:generate": "all-contributors generate",
+    "lint:fix": "eslint **/*.js --fix",
+    "lint": "eslint **/*.js",
     "test": "jest",
     "semantic-release": "semantic-release"
   },
