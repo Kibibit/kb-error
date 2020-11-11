@@ -5,6 +5,6 @@ module.exports = class kbError extends Error {
    */
   constructor(message) {
     super(message);
-    this.name = 'kbError';
+    this.name = this.constructor.name;
   }
 }
