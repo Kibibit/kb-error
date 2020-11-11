@@ -28,7 +28,7 @@ module.exports = {
   ],
 
   // The directory where Jest should output its coverage files
-  coverageDirectory: "coverage",
+  coverageDirectory: 'coverage',
 
   // An array of regexp pattern strings used to skip coverage collection
   // coveragePathIgnorePatterns: [
@@ -36,15 +36,15 @@ module.exports = {
   // ],
 
   // Indicates which provider should be used to instrument code for coverage
-  coverageProvider: "v8",
+  coverageProvider: 'v8',
 
   // A list of reporter names that Jest uses when writing coverage reports
   coverageReporters: [
-    "json",
-    "lcov",
-    "text",
-    "clover",
-    "html"
+    'json',
+    'lcov',
+    'text',
+    'clover',
+    'html'
   ],
 
   // An object that configures minimum threshold enforcement for coverage results
@@ -105,7 +105,7 @@ module.exports = {
   // projects: undefined,
 
   // Use this configuration option to add custom reporters to Jest
-  reporters: ["default", "jest-stare"],
+  reporters: ['default', 'jest-stare'],
 
   // Automatically reset mock state between every test
   // resetMocks: false,
@@ -143,7 +143,7 @@ module.exports = {
   // snapshotSerializers: [],
 
   // The test environment that will be used for testing
-  testEnvironment: "node",
+  testEnvironment: 'node',
 
   // Options that will be passed to the testEnvironment
   // testEnvironmentOptions: {},
@@ -166,7 +166,7 @@ module.exports = {
   // testRegex: [],
 
   // This option allows the use of a custom results processor
-  testResultsProcessor: "./node_modules/jest-stare",
+  testResultsProcessor: './node_modules/jest-stare',
 
   // This option allows use of a custom test runner
   // testRunner: "jasmine2",
@@ -178,7 +178,7 @@ module.exports = {
   // timers: "real",
 
   // A map from regular expressions to paths to transformers
-  // transform: undefined,
+  transform: {},
 
   // An array of regexp pattern strings that are matched against all source file paths, matched files will skip transformation
   // transformIgnorePatterns: [

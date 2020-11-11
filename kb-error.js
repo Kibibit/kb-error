@@ -7,4 +7,4 @@ module.exports = class kbError extends Error {
     super(message);
     this.name = this.constructor.name;
   }
-}
+};
