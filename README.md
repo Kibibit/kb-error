@@ -10,7 +10,7 @@
 <hr>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ## How to install
 <!-- FILL THIS OUT -->
@@ -34,6 +34,7 @@ Thanks goes to our contributors! ([emoji key](https://allcontributors.org/docs/e
   <tr>
     <td align="center"><a href="https://github.com/ZimGil"><img src="https://avatars3.githubusercontent.com/u/39461857?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gil Tichon</b></sub></a><br /><a href="https://github.com/ZimGil/kb-error/commits?author=ZimGil" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/ortichon"><img src="https://avatars0.githubusercontent.com/u/10263615?v=4?s=100" width="100px;" alt=""/><br /><sub><b>O T</b></sub></a><br /><a href="https://github.com/ZimGil/kb-error/commits?author=ortichon" title="Code">💻</a></td>
+    <td align="center"><a href="http://thatkookooguy.kibibit.io/"><img src="https://avatars3.githubusercontent.com/u/10427304?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Neil Kalman</b></sub></a><br /><a href="https://github.com/ZimGil/kb-error/commits?author=Thatkookooguy" title="Code">💻</a></td>
   </tr>
 </table>
 
