@@ -1,7 +1,9 @@
 module.exports = class kbError extends Error {
   /**
-   * Constructor for the kbError class
-   * @param { String } message - Error message
+   * Creates a new KbError instance
+   * @example
+   * const error = new KbError('Error Message');
+   * @param { String } message - a more detailed human-readable error message
    */
   constructor(message) {
     super(message);
