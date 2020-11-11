@@ -1,0 +1,24 @@
+{
+  "projectName": "kb-error",
+  "projectOwner": "ZimGil",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "ZimGil",
+      "name": "Gil Tichon",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/39461857?v=4",
+      "profile": "https://github.com/ZimGil",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
