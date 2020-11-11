@@ -24,6 +24,7 @@ module.exports = {
     '**/*.js',
     '!**/test-results/**',
     '!**/coverage/**',
+    '!commitlint.config.js',
     '!jest.config.js'
   ],
 
