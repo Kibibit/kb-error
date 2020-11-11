@@ -19,7 +19,10 @@
 <!-- FILL THIS OUT -->
 
 ## How to use
-<!-- FILL THIS OUT -->
+```javascript
+const err = new kbError();
+throw err;
+```
 
 ## Contributing
 
