@@ -4,6 +4,10 @@
   "description": "Basic erorr class for kibibit projects",
   "main": "kb-error.js",
   "types": "kb-error.d.ts",
+  "files": [
+    "kb-error.js",
+    "kb-error.d.ts"
+  ],
   "scripts": {
     "generate-types": "tsc",
     "commit": "cz",
@@ -14,6 +18,11 @@
     "test": "jest",
     "semantic-release": "semantic-release"
   },
+  "keywords": [
+    "error",
+    "exception",
+    "error-handling"
+  ],
   "dependencies": {},
   "devDependencies": {
     "@babel/preset-env": "^7.12.1",
