@@ -45,5 +45,5 @@ Thanks goes to our contributors! ([emoji key](https://allcontributors.org/docs/e
 
 ## License
 
-[MIT](LICENSE) © 2019 Gil Tichon <ZimGil@kibibit.io>
+[MIT](LICENSE) © 2020 Gil Tichon <ZimGil@kibibit.io>
 

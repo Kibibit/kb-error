@@ -1,15 +1,18 @@
 {
-  "name": "kb-error",
+  "name": "@kibibit/kb-error",
   "version": "0.0.0",
   "description": "Basic erorr class for kibibit projects",
   "main": "index.js",
   "types": "index.d.ts",
   "dependencies": {},
   "devDependencies": {
+    "all-contributors-cli": "^6.19.0",
     "chai": "^4.2.0",
     "mocha": "^8.2.0"
   },
   "scripts": {
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate",
     "test": "mocha"
   },
   "repository": {
